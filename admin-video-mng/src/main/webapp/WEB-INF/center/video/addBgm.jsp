@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
 	<!-- BEGIN PAGE HEADER-->
@@ -100,7 +100,7 @@
     		console.log(data);
     		
     		if (data.result.status != '200') {
-    			alert("长传失败...");
+    			alert("上传失败...");
     		} else {
     			var bgmServer = $("#bgmServer").val();
     			var url = bgmServer + data.result.data;

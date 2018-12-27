@@ -12,7 +12,7 @@
 <%--<input type="hidden" id="apiServer" name="apiServer" value="http://127.0.0.1:8081"/>--%>
 <%--<input type="hidden" id="bgmServer" name="bgmServer" value="http://127.0.0.1:8080/mvc"/>--%>
 <input type="hidden" id="apiServer" name="apiServer" value="http://119.23.242.242/echo"/>
-<input type="hidden" id="bgmServer" name="bgmServer" value="http://119.23.242.242/mvc"/>
+<input type="hidden" id="bgmServer" name="bgmServer" value="http://132.232.244.172:8080/mvc"/>
 
 
 <!-- BEGIN CORE PLUGINS -->
