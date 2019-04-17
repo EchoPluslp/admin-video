@@ -68,14 +68,6 @@
 	                        </div>
 	                    </div>
 	                </div>
-	                
-<!-- 	                <div class="row" style="margin-top: 15px;"> -->
-<!-- 	                    <div class="col-md-12"> -->
-<!-- 	                        <div class="mt-widget-3" style="padding-top: 15px;"> -->
-<!-- 	                        	彩蛋：分布式集群架构的演变 -->
-<!-- 	                        </div> -->
-<!-- 	                    </div> -->
-<!-- 	                </div> -->
 	            </div>
 	        </div>
 	    </div>
